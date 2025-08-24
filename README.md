@@ -1,4 +1,4 @@
-# Cplusplus-Program
+# C++-Program
 Project Summary
 
 For the project, I did the Corner Grocer project in which I was instructed to write a C++ program that accepts grocery transaction data. The program counts the number of times each item appears, allows the user to search for specific items, and builds a frequency histogram. The project solved the problem of helping a small grocery store know more about customers' buying habits through simple-to-grasp automated reports.
